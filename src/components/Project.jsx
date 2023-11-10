@@ -17,7 +17,7 @@ const Project = () => {
     {
       img: project6,
       name: "Text Utils",
-      github_link: "https://github.com/lordkazama/textutils.git",
+      github_link: "https://github.com/lordkazama/Textutil.git",
       
     },
     {
